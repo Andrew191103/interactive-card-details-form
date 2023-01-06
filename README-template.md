@@ -95,9 +95,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Your Detail 
 
-- FullName - [Add your name here]
-- StudentID - [Add your StudentID here]
-- BINUS Email - [Add your BINUS email here]
+- FullName - [Andrew Sebastian Sibuea]
+- StudentID - [1602169711]
+- BINUS Email - [Andrew_sibuea@binus.ac.id]
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
